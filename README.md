@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<ul align="center">
+<ul align="left">
   <li>🎓 Computer Science student at <b>Drexel University</b></li>
   <li>💻 Interested in <b>Software Engineering</b> and <b>AI</b>
   <li>🚀 Building projects in <b>Java,Python,TypeScript</b> and <b>Flutter</b></li>
