@@ -5,7 +5,7 @@
   <li>🚀 Building projects in <b>Java,Python,TypeScript</b> and <b>Flutter</b></li>
   <li>☁️ Exploring cloud technologies with <b>AWS</b> and <b>Docker</b></li>
   <li>📂 Check out my projects below!
-  <li>📫 Reach me at: <b>kevindinh@drexel.edu</b></li>
+  <li>📫 Reach me at: <b>kkd49@drexel.edu</b></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
